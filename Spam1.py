@@ -3,9 +3,9 @@ import requests, os
 def logo():
   print("""
 
-             -----| Author : Rizqi |-----
-             -----| Script : Spam1 |-----
-             -----| Team   : Cyber |-----
+      +++++++-----| Author : Rizqi |-----+++++++
+      +++++++-----| Script : Spam1 |-----+++++++
+      +++++++-----| Team   : Cyber |-----+++++++
 """)
 def menu():
      os.system('clear')
